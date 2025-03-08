@@ -3,7 +3,7 @@ Python 3 package for Sailfish OS
 
 - beautifulsoup4
 - soupsieve
-- typing-extension
+- typing-extensions
 
 ## Building
 
